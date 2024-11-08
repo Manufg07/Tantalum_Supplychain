@@ -1,0 +1,22 @@
+index.css or App.css
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.w-64 {
+  width: 16rem; /* Adjust as needed */
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
