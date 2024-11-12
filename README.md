@@ -2,7 +2,6 @@
 
 
 A blockchain-based supply chain solution using **Hyperledger Fabric** to securely track and manage the supply of tantalum from mining to refinement and certification.
-
 ---
 
 ## 📑 Table of Contents
