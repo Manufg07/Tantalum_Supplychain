@@ -1,0 +1,11 @@
+[
+  {
+    "name": "collectionMiningCertificationDetails",
+    "policy": "OR('MiningCompanyMSP.member', 'CertificationAuthorityMSP.member')",
+    "requiredPeerCount": 1,
+    "maxPeerCount": 2,
+    "blockToLive": 1000,
+    "memberOnlyRead": true,
+    "memberOnlyWrite": true
+  }
+]
