@@ -28,7 +28,6 @@ The **Tantalum Supply Chain Project** aims to bring transparency and traceabilit
 - 🏷 Implement compliance status tracking directly in ore assets.
 
 ---
-
 ## ✨ Features
 
 - **🔗 Blockchain-Backed Traceability**: Immutable records for ore tracking and compliance.
